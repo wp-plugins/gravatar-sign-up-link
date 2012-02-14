@@ -2,7 +2,7 @@
 /*
 Plugin Name: Gravatar Sign Up Link
 Description: Automatically add a sign up link to Gravatar on your WordPress comment area.
-Version: 1.0
+Version: 1.1
 Author: Aaron Holbrook
 Author URI: http://aaronjholbrook.com/
 Plugin URI: http://a7web.com/plugins/

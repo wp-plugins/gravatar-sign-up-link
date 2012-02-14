@@ -26,5 +26,8 @@ Not yet, but I'm looking to release that functionality shortly.
 
 == Changelog ==
 
+= 1.1 = 
+Added support for custom link text under settings->gravatar sign up
+
 = 0.1 =
 Added readme.txt and changed file name to gravatar-sign-up-link.php
